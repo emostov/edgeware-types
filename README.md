@@ -1,5 +1,4 @@
 # edgeware-types
-git commit -m "first commit"
 A simple repo for reproducing a bug
 
 ## Usage
